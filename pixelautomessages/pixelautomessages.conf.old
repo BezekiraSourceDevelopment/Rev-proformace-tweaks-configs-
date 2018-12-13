@@ -1,0 +1,155 @@
+configs {
+    interval=460
+    prefix="&7[&aKismet&7]&r "
+    random=false
+}
+# Set you messages here! Follow the example and add numbers as index for more messages. 
+# All fields (except permission) accept the player placeholder {player}.
+# 
+# Note: Use the fields 'click-cmd', 'click-url' and 'suggest-cmd' one at time.
+messages {
+    "1" {
+        # Any colored message to send to server
+        a-message="We have discord! Click &lhere &rto get an invite! "
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover="Click on me to get an invite to our discord server!"
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url="http://www.discordapp.com/invite/D5pzpbS"
+    }
+    "2" {
+        # Any colored message to send to server
+        a-message="We also have an &l&eInfinity Evolved &rserver! Click on &l me &rto visit our website to find the IP's! Also check out the store for &lranks &rand &lpacks."
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover="Click on me to vist our website!"
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url="http://www.kismet.enjin.com"
+    }
+    "3" {
+        # Any colored message to send to server
+        a-message="&l&oRemember... &rhave fun! &l&d<3"
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover=":)"
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url=""
+    }
+    "5" {
+        # Any colored message to send to server
+        a-message="&l&oRemember... &rthis is a &l&eHappy &rplace. &l:)"
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover=""
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url=""
+    }
+    "6" {
+        # Any colored message to send to server
+        a-message="See what our banned items list is via &l/banneditems. &l&b:)"
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover="Everything is there for a reason <3"
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url=""
+    }
+    "7" {
+        # Any colored message to send to server
+        a-message="Don't forget to read &l/rules&r. &l&d<3"
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover="Click me to see the rules :)"
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd="/rules"
+        # Open a url on click.
+        g-click-url=""
+    }
+    "8" {
+        # Any colored message to send to server
+        a-message="We supply &lfree &rlava on ender tank &l&cRED&l&f/&l&cRED&l&f/&l&cRED &rand free water on ender tank &l&9BLUE&l&f/&l&9BLUE&l&f/&l&9BLUE&f! &l&d<3"
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover=""
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url=""
+    }
+    "9" {
+        # Any colored message to send to server
+        a-message="&7[&aKismet&7] &fPlease be sure to do &l&8/rules &fand check out the &l&6NEW &frule 17! &d<3"
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover=""
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url=""
+    }
+    "10" {
+        # Any colored message to send to server
+        a-message="&7[&aKismet&7] &fthis one dont work"
+        # Players online needed to show this message. Set 0 always show.
+        b-players-online=0
+        # Set permissions needed to player receive this message. Leave blank to disable.
+        c-permission=""
+        # Colored hover message.
+        d-on-hover="Check banned items via /banneditems :)"
+        # Print a command on player chat.
+        e-suggest-cmd=""
+        # Command to run on click.
+        f-click-cmd=""
+        # Open a url on click.
+        g-click-url=""
+    }
+}

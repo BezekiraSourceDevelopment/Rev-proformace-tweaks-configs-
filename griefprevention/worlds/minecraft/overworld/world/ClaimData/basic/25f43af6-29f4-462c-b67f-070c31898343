@@ -1,0 +1,41 @@
+# 4.3.0
+# # If you need help with the configuration or have any questions related to GriefPrevention,
+# # join us on Discord or drop by our forums and leave a post.
+# # Discord: https://discord.gg/jy4FQDz
+# # Forums: https://forums.spongepowered.org/t/griefprevention-official-thread-1-10-1-11-1-12/1123
+# 
+
+GriefPrevention {
+    accessor-groups=[]
+    accessors=[]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-type=BASIC
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2018-10-31T03:32:47.129Z"
+    date-last-active="2018-11-03T04:56:40.666Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        sale-price=0.0
+        tax-balance=0.0
+    }
+    flag-overrides=true
+    greater-boundary-corner="6935;255;6288"
+    inherit-parent=true
+    isExpired=false
+    lesser-boundary-corner="6927;0;6280"
+    manager-groups=[]
+    managers=[]
+    owner-uuid=c1805c19-5a40-42f6-947e-8788f7c39d81
+    pvp=UNDEFINED
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=false
+    subdivisions {}
+    world-uuid="46b4782d-cd8b-4583-a98c-389cbb0a907e"
+}

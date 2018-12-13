@@ -1,0 +1,15 @@
+&a1: Be respectful. Be ethical. Use common sense and courtesy. Kismet's golden rule- "Don't be a dick."
+&a2: Do not dupe, cheat, steal, scam, or raid.
+&a3: Do not spam chat or disrespect others (including racist, homophobic, sexist, or other derogatory remarks). 
+&a4: Do not build afk machines to bypass afk kick.
+&a5: Keep all destructive harvesting to designated worlds (mining, gather, end, nether).
+&a6: Do not test, teach, or talk about exploits. If you find one- privately message staff about it.
+&a7: Ender Dragons must remain in the end. 
+&a8: Avoid building within 200 blocks of others, unless you have permission.
+&a9: Ask and give warning in chat before changing time of day or weather.
+&a10: Mob grinders must have an off switch and collect drops efficiently.
+&a11: Mob grinders should not send entities through portals or over long distances as drops.
+&a12: Mob count per chunk- hostile or otherwise- should be kept low.
+&a13: Staff are allowed anywhere, anytime. No exceptions.
+&a14: Staff will not intervene on teaming issues.
+&a15: For all other advisories, visit https://kismet.enjin.com/rules . All staff, rules, and FAQs can also be found at /firstspawn.
